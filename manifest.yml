@@ -1,6 +1,6 @@
 ---
 applications:
- - name: GetStartedTomcat
+ - name: btapp
    random-route: true
    path: target/GetStartedTomcat.war
    memory: 256M
